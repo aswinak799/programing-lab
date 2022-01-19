@@ -101,7 +101,7 @@
     "        x=int(x/10)\n",
     "        sq=int(math.sqrt(i))\n",
     "    if sq*sq==i:\n",
-    "        if k1%2==0 and k2%2==0 and k3%2==0 and k4%2==0:\n",
+    "        if k1%2==0 and k2%2==0 and k3%2==0 and k4%2==0:\n", abhirag
     "            l.append(i)\n",
     "print(\"The required list is: \",l)"
    ]
